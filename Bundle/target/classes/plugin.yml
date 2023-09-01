@@ -1,4 +1,0 @@
-name: Bundle
-version: '1.0-SNAPSHOT'
-main: greefox.bundle.Bundle
-api-version: 1.19
