@@ -8,5 +8,4 @@
 
 - Check out the [**Wiki**](https://github.com/GreeFoxTheDev/Bundles/wiki) and [**Source code**](https://github.com/GreeFoxTheDev/Bundles) on Github
 - Support me by downloading it on [Modrinth](https://modrinth.com/plugin/bundles), [Spigot](https://www.spigotmc.org/resources/bundles.109783/) and [Paper Hangar](https://hangar.papermc.io/GreeFox/Bundles)!
-- If you have any issues, visit my [**discord**](https://discord.gg/tXJcWx92H
-- M)!
+- If you have any issues, visit my [**discord**](https://discord.gg/tXJcWx92HM)!
