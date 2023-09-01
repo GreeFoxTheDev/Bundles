@@ -1,0 +1,4 @@
+name: Bundle
+version: '${project.version}'
+main: greefox.bundle.Bundle
+api-version: 1.19
